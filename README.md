@@ -1,5 +1,5 @@
 # TikDL
-A simple TikTok video and audio download website without a watermark as a learning medium using NodeJS made by RFIunknown
+Simple Tiktok Video Dan Audio Downloader tanpa Watermark, Source ini sebagai media pembelajaran tentang NodeJS (JANGAN DIJUAL), Kembangkan sendiri agar lebih mudah dimengerti
 
 ## Run locally
 
