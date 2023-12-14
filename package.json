@@ -1,0 +1,27 @@
+{
+  "name": "tiktokdl",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon ./index.js",
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "file-server": "^2.2.1",
+    "fs": "^0.0.1-security",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0",
+    "node-fetch": "^3.3.1",
+    "ssl-express-www": "^3.2.1"
+  }
+}
